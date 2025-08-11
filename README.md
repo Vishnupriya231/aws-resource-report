@@ -23,3 +23,15 @@ Make the script executable and run it:
 ```bash
 chmod +x aws-resource.sh
 ./aws-resource.sh
+
+#Output
+
+print list of S3 buckets
+2025-06-26 19:53:27 bucket1-vichu
+print list of ec2 instances
+"i-01dc23a2f25c1411e"
+"i-0f58820f78cb30380"
+print list of lambda functions
+[]
+print list of IAM users
+[]
